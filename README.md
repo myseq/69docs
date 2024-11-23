@@ -11,6 +11,4 @@ Based on the YT video [Full Tutorial To Build And Deploy Your Docs Portal](https
 
 [![Material for MkDocs](https://img.youtube.com/vi/xlABhbnNrfI/0.jpg)](https://www.youtube.com/watch?v=xlABhbnNrfI "Material for MkDocs: Full Tutorial To Build And Deploy Your Docs Portal")
 
-[![YouTube](http://i.ytimg.com/vi/xlABhbnNrfI/hqdefault.jpg)](https://www.youtube.com/watch?v=xlABhbnNrfI)
-
 
