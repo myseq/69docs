@@ -79,4 +79,6 @@ extra:
   social:
     - icon: simple/github
       link: https://github.com/myseq/69docs/
-
+  analytics:
+    provider: google
+    property: G-CQL491X0G6
