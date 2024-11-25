@@ -45,11 +45,13 @@ theme:
     code: Fira Mono
 
   features:
+    - content.footnote.tooltips
     - navigation.footer
       #    - navigation.tabs
       #    - navigation.tabs.sticky
 
 markdown_extensions:
+  - footnotes
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
