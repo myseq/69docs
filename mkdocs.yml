@@ -1,16 +1,15 @@
-site_name: 太極拳論/經
+site_name: 縱橫太極
 
 site_url: http://myseq.github.io/69docs
 site_author: zd
 site_description: >-
-  Write any note or documentation in Markdown and create a professional static site
+  太極拳的文獻與資料。
 
 repo_name: myseq/69docs
 repo_url: https://github.com/myseq/69docs
 
 # Copyright
-copyright: Copyright &copy; 2024 zd
-
+copyright: Copyright &copy; 2024 zd☯️ 
 
 # Configuration
 theme:
