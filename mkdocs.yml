@@ -35,9 +35,9 @@ theme:
         icon: material/weather-night
         name: Switch to dark mode
 
+  favicon: material/yin-yang 
   icon: 
     logo: fontawesome/solid/yin-yang
-    favicon: material/yin-yang 
 
   font:
     text: Fira
