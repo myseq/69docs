@@ -36,6 +36,7 @@ theme:
         name: Switch to dark mode
 
   favicon: material/yin-yang 
+  favicon: assets/yy.ico
   icon: 
     logo: fontawesome/solid/yin-yang
 
