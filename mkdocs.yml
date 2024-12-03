@@ -1,6 +1,6 @@
 site_name: 縱橫太極
 
-site_url: http://myseq.github.io/69docs
+site_url: http://myseq.github.io/69docs/
 site_author: zd
 site_description: >-
   太極拳的文獻與資料。
@@ -45,10 +45,22 @@ theme:
     code: Fira Mono
 
   features:
-    - content.footnote.tooltips
+    - search.suggest
+    - search.highlight
     - navigation.footer
+    - navigation.instant
+      #- content.footnote.tooltips    ## insiders-only
+      #- navigation.instant.prefetch   ## insiders-only
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - toc.follow
+      #- navigation.path   ## insiders-only
+
       #    - navigation.tabs
-      #    - navigation.tabs.sticky
+      #    - navigation.tabs.sticky     
 
 markdown_extensions:
   - footnotes
@@ -84,3 +96,9 @@ extra:
   analytics:
     provider: google
     property: G-CQL491X0G6
+
+extra_css:
+  - stylesheets/extra.css
+                             
+
+
