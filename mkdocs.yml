@@ -41,7 +41,7 @@ theme:
     logo: fontawesome/solid/yin-yang
 
   font:
-    text: Fira
+    text: Stick
     code: Fira Mono
 
   features:
