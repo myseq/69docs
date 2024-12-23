@@ -14,6 +14,8 @@ copyright: Copyright &copy; 2024 zd☯️
 # Configuration
 theme:
   name: material
+    #locale: zh_TW
+  language: zh-TW
   palette:
 
     # Palette toggle for dark mode (default)
@@ -41,6 +43,7 @@ theme:
     logo: fontawesome/solid/yin-yang
 
   font:
+    size: 24px
     text: Stick
     code: Fira Mono
 
